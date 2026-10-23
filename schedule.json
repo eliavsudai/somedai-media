@@ -2,6 +2,19 @@
   "timezone_note": "Times are Guatemala time (UTC-06:00). A post only publishes when approved is true.",
   "posts": [
     {
+      "id": "2026-10-23-pinned-novel",
+      "when": "2026-10-23T16:30:00-06:00",
+      "type": "carousel",
+      "approved": false,
+      "media": [
+        "posts/2026-10-23-pinned-novel/pinned_novel_01.jpg",
+        "posts/2026-10-23-pinned-novel/pinned_novel_02.jpg",
+        "posts/2026-10-23-pinned-novel/pinned_novel_03.jpg",
+        "posts/2026-10-23-pinned-novel/pinned_novel_04.jpg"
+      ],
+      "caption": "The novel behind the questions.\n\nSOMED.AI is a philosophical techno-thriller by Gabriel Mejia Mory. Aden and Irene are drawn into a secret effort pushing intelligence toward a historic threshold, and others are racing to reach it first.\n\nEverything on this account, our POSSIBLE FUTURES series, is an original thought experiment inspired by the book's questions: who benefits when the future can be predicted, and who pays.\n\nRead a free sample on Amazon. Link in bio.\n\n#somedai #technothriller #newbooks #bookstagram #scifibooks #aithriller"
+    },
+    {
       "id": "2026-10-23-ep01-story-1",
       "when": "2026-10-23T18:30:00-06:00",
       "type": "story",
