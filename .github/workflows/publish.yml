@@ -1,0 +1,38 @@
+name: Publish scheduled posts
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "List what would be published without posting"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish due posts
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
+        run: python3 publisher/publish.py
+      - name: Record published posts
+        run: |
+          if [ -n "$(git status --porcelain published.json)" ]; then
+            git config user.name "SOMED.AI publisher"
+            git config user.email "eliavsudai@users.noreply.github.com"
+            git add published.json
+            git commit -m "Record published posts"
+            git push
+          fi

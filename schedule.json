@@ -1,0 +1,76 @@
+{
+  "timezone_note": "Times are Guatemala time (UTC-06:00). A post only publishes when approved is true.",
+  "posts": [
+    {
+      "id": "2026-10-23-ep01-story-1",
+      "when": "2026-10-23T18:30:00-06:00",
+      "type": "story",
+      "approved": false,
+      "media": [
+        "posts/2026-10-23-ep01-love/story_01.jpg"
+      ]
+    },
+    {
+      "id": "2026-10-23-ep01-reel",
+      "when": "2026-10-23T19:30:00-06:00",
+      "type": "reel",
+      "approved": false,
+      "media": [
+        "posts/2026-10-23-ep01-love/reel.mp4"
+      ],
+      "cover": "posts/2026-10-23-ep01-love/cover.jpg",
+      "caption": "He already knows how this ends. She doesn't.\n\nPOSSIBLE FUTURES 01 / LOVE. In this possible future, an app can forecast whether a relationship will last. He checked. She was never asked.\n\nWould you check? And if you did, would you tell them?\n\nAn original thought experiment, not a scene from the book. It's inspired by SOMED.AI, a philosophical techno-thriller by Gabriel Mejia Mory about a secret project to build a system that can model the future, and the fight over who benefits from what it knows.\n\n#possiblefutures #somedai #technothriller #speculativefiction #bookstagram #aiethics"
+    },
+    {
+      "id": "2026-10-23-ep01-story-2",
+      "when": "2026-10-23T20:15:00-06:00",
+      "type": "story",
+      "approved": false,
+      "media": [
+        "posts/2026-10-23-ep01-love/story_02.jpg"
+      ]
+    },
+    {
+      "id": "2026-10-23-ep01-story-3",
+      "when": "2026-10-23T21:00:00-06:00",
+      "type": "story",
+      "approved": false,
+      "media": [
+        "posts/2026-10-23-ep01-love/story_03.jpg"
+      ]
+    },
+    {
+      "id": "2026-10-24-ep01-story-4",
+      "when": "2026-10-24T09:00:00-06:00",
+      "type": "story",
+      "approved": false,
+      "media": [
+        "posts/2026-10-23-ep01-love/story_04.jpg"
+      ]
+    },
+    {
+      "id": "2026-10-24-ep01-carousel",
+      "when": "2026-10-24T15:00:00-06:00",
+      "type": "carousel",
+      "approved": false,
+      "media": [
+        "posts/2026-10-23-ep01-love/carousel_01.jpg",
+        "posts/2026-10-23-ep01-love/carousel_02.jpg",
+        "posts/2026-10-23-ep01-love/carousel_03.jpg",
+        "posts/2026-10-23-ep01-love/carousel_04.jpg",
+        "posts/2026-10-23-ep01-love/carousel_05.jpg",
+        "posts/2026-10-23-ep01-love/carousel_06.jpg"
+      ],
+      "caption": "Certainty or discovery?\n\nA forecast could spare you years with the wrong person. It could also turn the person you love into a score they never agreed to.\n\nSwipe for the case for it, the cost, and who pays. Save it for the next time someone says they'd \"just want to know.\"\n\nPOSSIBLE FUTURES is a series of original thought experiments inspired by SOMED.AI, a philosophical techno-thriller by Gabriel Mejia Mory. Explore the novel through the link in our bio.\n\n#possiblefutures #somedai #technothriller #booksworthreading"
+    },
+    {
+      "id": "2026-10-24-ep01-story-5",
+      "when": "2026-10-24T15:30:00-06:00",
+      "type": "story",
+      "approved": false,
+      "media": [
+        "posts/2026-10-23-ep01-love/story_05.jpg"
+      ]
+    }
+  ]
+}
