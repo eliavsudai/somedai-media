@@ -5,7 +5,7 @@
       "id": "2026-10-23-pinned-novel",
       "when": "2026-10-23T16:30:00-06:00",
       "type": "carousel",
-      "approved": false,
+      "approved": true,
       "media": [
         "posts/2026-10-23-pinned-novel/pinned_novel_01.jpg",
         "posts/2026-10-23-pinned-novel/pinned_novel_02.jpg",
