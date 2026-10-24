@@ -84,6 +84,35 @@
       "media": [
         "posts/2026-10-23-ep01-love/story_05.jpg"
       ]
+    },
+    {
+      "id": "2026-10-24-os01-reel",
+      "when": "2026-10-24T19:30:00-06:00",
+      "type": "reel",
+      "approved": false,
+      "media": [
+        "posts/2026-10-24-os01-love/reel.mp4"
+      ],
+      "cover": "posts/2026-10-24-os01-love/cover.jpg",
+      "caption": "The last time she packed these boxes, she was leaving.\n\nTHE OTHER SIDE / 01 LOVE. Yesterday we asked whether you'd check a forecast of your relationship. Today, the strongest case for yes: not checking in secret, but checking together, after you've already been blindsided once.\n\nIf you both agreed, would you look?\n\nAn original thought experiment, not a scene from the book. POSSIBLE FUTURES is inspired by SOMED.AI, a philosophical techno-thriller by Gabriel Mejia Mory about a secret project to build a system that can model the future. Read a free sample through the link in bio.\n\n#possiblefutures #somedai #technothriller #speculativefiction #bookstagram #relationships"
+    },
+    {
+      "id": "2026-10-24-os01-story-1",
+      "when": "2026-10-24T20:15:00-06:00",
+      "type": "story",
+      "approved": false,
+      "media": [
+        "posts/2026-10-24-os01-love/story_01.jpg"
+      ]
+    },
+    {
+      "id": "2026-10-24-os01-story-2",
+      "when": "2026-10-24T21:30:00-06:00",
+      "type": "story",
+      "approved": false,
+      "media": [
+        "posts/2026-10-24-os01-love/story_02.jpg"
+      ]
     }
   ]
 }
