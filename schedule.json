@@ -127,7 +127,7 @@
       "id": "2026-10-25-fragment-01",
       "when": "2026-10-25T14:36:00-06:00",
       "type": "reel",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-25-fragment-01/reel.mp4"
       ],
