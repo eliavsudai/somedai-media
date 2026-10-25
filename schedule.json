@@ -122,6 +122,17 @@
       "media": [
         "posts/2026-10-25-ep02-work/story_01.jpg"
       ]
+    },
+    {
+      "id": "2026-10-26-fragment-01",
+      "when": "2026-10-26T12:30:00-06:00",
+      "type": "reel",
+      "approved": true,
+      "media": [
+        "posts/2026-10-26-fragment-01/reel.mp4"
+      ],
+      "cover": "posts/2026-10-26-fragment-01/cover.jpg",
+      "caption": "FRAGMENT 01 / THE PREDICTION\n\nEverything it predicts comes true.\nSo what happens to the one who refuses?\n\n“A system that doesn’t just predict the future, but defines it.”\nfrom SOMED.AI, a techno-thriller by Gabriel Mejia Mory.\n\nOne fragment a day. Read the first pages free, link in bio.\n\n#somedai #technothriller #bookstagram #thrillerbooks #scifibooks #newbooks"
     }
   ]
 }
